@@ -1,9 +1,9 @@
+## Author : Rishabh Gautam
 ## Program to JOIN two pandas dataframes
 
 # Import relevant libraries
 import pandas as pd
 
-# List of lists
 df1 = {
         'subject_id': ['1', '2', '3', '4', '5'],
         'first_name': ['Alex', 'Amy', 'Allen', 'Alice', 'Ayoung'], 
